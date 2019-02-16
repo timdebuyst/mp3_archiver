@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mp3_archiver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/mp3_archiver_jar/mp3_archiver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
